@@ -1,1 +1,3 @@
-print("test")
+orange = "little toy is cool"
+
+print(orange)
